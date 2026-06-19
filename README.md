@@ -31,7 +31,7 @@ El proyecto incluye los siguientes datasets:
 ## ▶ Cómo abrir el notebook en Google Colab
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diegofranco22df-alt/Analisis_de_rentabilidad_de_una_empresa_comercial/blob/main/Analisis%20de%20rentabilidad%20comercial.ipynb)
 
 O:
 
