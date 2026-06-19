@@ -8,14 +8,14 @@ Este repositorio contiene un análisis para determinar la rentabilidad del negoc
 
 El objetivo del análisis es responder las siguientes preguntas:
 
-¿Cuál es el ingreso total (revenue)?
-¿Cuál es el costo total?
-¿El negocio es rentable? (calcular ganancia o profit)
-¿Cuál es el ticket promedio por orden?
-¿Cuál es la cantidad promedio de productos por orden?
-¿Cuál es el producto más vendido?
-¿Por cuál centro de costo se vendió más?
-¿Cuáles centros de costos tienen el mayor margen de utilidad?
+- ¿Cuál es el ingreso total (revenue)?
+- ¿Cuál es el costo total?
+- ¿El negocio es rentable? (calcular ganancia o profit)
+- ¿Cuál es el ticket promedio por orden?
+- ¿Cuál es la cantidad promedio de productos por orden?
+- ¿Cuál es el producto más vendido?
+- ¿Por cuál centro de costo se vendió más?
+- ¿Cuáles centros de costos tienen el mayor margen de utilidad?
 
 El proyecto incluye los siguientes datasets:
 
