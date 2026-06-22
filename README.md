@@ -1,6 +1,6 @@
 # Analisis_de_rentabilidad_de_una_empresa_comercial
 
-En el presente análisis se evaluará el desempeño comercial del año 2024 de una empresa que vende artículos deportivos, como relojes, sensores, bandas, etc. Para encontrar debilidades y fortalezas, y posteriormente realizar recomendaciones accionables basados en los insights principales.
+En el presente análisis se evaluó el desempeño comercial del año 2024 de una empresa que vende artículos deportivos, como relojes, sensores, bandas, etc. Para encontrar debilidades y fortalezas, y posteriormente realizar recomendaciones accionables basados en los insights principales.
 
 Este repositorio contiene un análisis para determinar la rentabilidad del negocio comercial y detectar oportunidades concretas de mejora.
 
